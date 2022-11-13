@@ -1,0 +1,14 @@
+{
+  "name": "crework-backend",
+  "version": "0.0.0",
+  "description": "backend tutorial for beginner's batch",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "dushyant",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
